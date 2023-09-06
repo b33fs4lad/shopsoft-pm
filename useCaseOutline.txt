@@ -4,7 +4,11 @@ CUSTOMER USE CASES:
 
 Register
 Log In
+	Update Cart
 	Like Item
+	View Liked Items
+	View Payment Methods
+		Update Payment Methods
 	Check Out
 		Add to Cart
 	Send Message to Staff
@@ -21,10 +25,10 @@ Log In
 EXECUTIVE USE CASES:
 
 Log In
+	View Daily Report
 	View Monthly Report
-		View Daily Report
 
 SYSTEM USE CASES:
 
-Generate Monthly Report
-	Generate Daily Report
+Generate Daily Report
+	Generate Monthly Report
