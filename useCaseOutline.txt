@@ -1,0 +1,28 @@
+CUSTOMER USE CASES:
+
+Register
+Log In
+	Like Item
+	Check Out
+		Add to Cart
+	Send Message to Staff
+	Read Messages
+
+STAFF USE CASES:
+
+Log In
+	Update Inventory
+	Access Customer Info
+	Send Message to Customer
+	Read Messages
+
+EXECUTIVE USE CASES:
+
+Log In
+	View Monthly Report
+		View Daily Report
+
+SYSTEM USE CASES:
+
+Generate Monthly Report
+	Generate Daily Report
