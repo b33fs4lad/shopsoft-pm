@@ -1,3 +1,5 @@
+This is a full list of every use case, sorted by actor. Use cases with the same name are the same. The indentation represents the dependency tree; each use case includes the ones above it.
+
 CUSTOMER USE CASES:
 
 Register
