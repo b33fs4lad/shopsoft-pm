@@ -4,10 +4,10 @@ CUSTOMER USE CASES:
 
 Register
 Log In
-	Update Cart
-	Like Item
-	View Liked Items
-	View Payment Methods
+	Update Cart // Yair
+	Like Item // Yair
+	View Liked Items // Yair
+	View Payment Methods // Yair
 		Update Payment Methods
 	Check Out
 		Add to Cart
